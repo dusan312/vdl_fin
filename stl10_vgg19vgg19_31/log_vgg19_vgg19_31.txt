@@ -1,0 +1,1 @@
+vegetables.jpg[0.66922] dog[0.27094] monkeytruck_car.jpg[0.99993] truck[0.00006] carcat_dog.png[0.99965] dog[0.00029] catdeer_bird_1.jpg[0.99999] deer[0.00000] birdfrog_cat.jpg[0.99484] cat[0.00383] dogdeer_bird_2.jpg[0.99998] deer[0.00002] birdhorse_deer.jpg[0.95120] horse[0.04068] deer

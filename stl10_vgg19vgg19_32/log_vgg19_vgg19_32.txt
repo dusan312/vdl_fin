@@ -1,0 +1,1 @@
+vegetables.jpg[0.36537] car[0.21364] birdtruck_car.jpg[0.80162] ship[0.09805] planecat_dog.png[0.81355] dog[0.16560] catdeer_bird_1.jpg[0.99995] deer[0.00003] birdfrog_cat.jpg[1.00000] cat[0.00000] dogdeer_bird_2.jpg[0.52159] plane[0.41751] deerhorse_deer.jpg[0.99367] horse[0.00603] dog
